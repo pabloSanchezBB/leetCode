@@ -9,9 +9,8 @@
  * }
  */
 class Solution<ListNode> {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-
-        ListNode ln = new ListNode();
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2)
+    {
 
     }
 }
