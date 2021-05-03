@@ -1,3 +1,4 @@
+package easy;
 /*
     Given a 2D array of ints, rows = i and represents the customer, col = j and represents a bank
     

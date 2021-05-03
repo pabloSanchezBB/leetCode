@@ -1,3 +1,4 @@
+package easy;
 /*
     given array of {x1,x2,...,xn,y1,y2,...,}
 */

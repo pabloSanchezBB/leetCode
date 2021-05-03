@@ -1,7 +1,7 @@
+package easy;
 /*
     Compute Running Sum: for [a,b,c,d] compute [a, a+b, a+b+c, a+b+c+d]
 */
-
 class RunningSum {
     public int[] runningSum(int[] nums) {
 

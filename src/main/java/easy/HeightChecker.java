@@ -1,3 +1,4 @@
+package easy;
 /*
     heights isn't in ascending order, how many ints aren't in that order?
 */

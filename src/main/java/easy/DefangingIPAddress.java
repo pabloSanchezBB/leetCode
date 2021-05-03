@@ -1,3 +1,4 @@
+package easy;
 /*
     defanging IP addresses: replace all ". with "[.]"
 */
